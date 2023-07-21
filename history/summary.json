@@ -15,7 +15,9 @@
     "timeWeek": 139,
     "timeMonth": 118,
     "timeYear": 100,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-21": 0
+    }
   },
   {
     "name": "Wikipedia",
