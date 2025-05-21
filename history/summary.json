@@ -11,9 +11,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.97%",
     "time": 109,
-    "timeDay": 79,
-    "timeWeek": 92,
-    "timeMonth": 119,
+    "timeDay": 128,
+    "timeWeek": 97,
+    "timeMonth": 120,
     "timeYear": 109,
     "dailyMinutesDown": {
       "2025-04-29": 33,
@@ -33,10 +33,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 210,
-    "timeDay": 90,
-    "timeWeek": 231,
-    "timeMonth": 167,
-    "timeYear": 211,
+    "timeDay": 211,
+    "timeWeek": 239,
+    "timeMonth": 173,
+    "timeYear": 212,
     "dailyMinutesDown": {}
   },
   {
@@ -46,17 +46,16 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 317,
-    "timeDay": 436,
-    "timeWeek": 385,
-    "timeMonth": 328,
+    "timeDay": 379,
+    "timeWeek": 384,
+    "timeMonth": 325,
     "timeYear": 325,
     "dailyMinutesDown": {
-      "2025-05-20": 12,
       "2025-05-09": 28,
       "2024-06-16": 17
     }
@@ -73,9 +72,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 127,
-    "timeDay": 35,
+    "timeDay": 136,
     "timeWeek": 106,
-    "timeMonth": 110,
+    "timeMonth": 113,
     "timeYear": 127,
     "dailyMinutesDown": {
       "2025-04-13": 25
